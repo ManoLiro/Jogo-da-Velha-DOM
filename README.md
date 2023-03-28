@@ -1,3 +1,3 @@
 # Jogo-da-Velha-DOM
 
-Jogo da velha feio em JavaScript DOM :)
+Jogo da velha feito em JavaScript DOM :)
